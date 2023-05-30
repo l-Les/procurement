@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    z-index: 1;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #960018;
+    opacity: 100%;
+    border-style: solid;
+    border-width: 2px;
+    text-align: center;
+    width: 100%;
+    min-height: 75px;
+    font-size: 48px;
+    justify-content: center;
+    align-items: center
+  }
+
+  header a { color: black; text-decoration: none; /* no underline */ }
